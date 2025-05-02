@@ -31,7 +31,7 @@
 
 ## 📌 Últimos projetos desenvolvidos
 
-[**Red Velvet**](https://hderysite.github.io/Prova-RedVelvet/) 🎂  
+[**Red Velvet**](https://hderysite.github.io/Prova-RedVelvet/) 🍰  
   **Site dinâmico** sobre o grupo Red Velvet. O projeto traz uma breve apresentação das integrantes, sua trajetória e um foco especial na proposta conceitual do grupo, que mescla diferentes estilos musicais e visuais.
 
  [**Adotados & Amados**](https://hderysite.github.io/Adotados-Amados/) 🐾  
