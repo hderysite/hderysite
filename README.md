@@ -11,8 +11,8 @@
 - Tenho como objetivo me tornar uma desenvolvedora full stack
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hderysite&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hderysite&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=vision-friendly-dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hderysite&show_icons=true&theme=vision-friendly-dark&hide=contribs,prs&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hderysite&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
 
 <br>
