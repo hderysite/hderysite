@@ -12,14 +12,12 @@
 
 <p align="center">
   <a href="https://github.com/hderysite">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hderysite&layout=compact&langs_count=7&theme=vision-friendly-dark" width="49.5%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hderysite&layout=compact&langs_count=7&theme=vision-friendly-dark" height="180em" />
   </a>
   <a href="https://github.com/hderysite">
-    <img src="https://github-readme-stats.vercel.app/api?username=hderysite&show_icons=true&theme=vision-friendly-dark" width="49.5%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=hderysite&show_icons=true&theme=vision-friendly-dark" height="180em" />
   </a>
 </p>
-
-<br>
 
 <div align="center">
   <img src="https://img.icons8.com/color/48/html-5--v1.png" height="40" width="40" alt="Logo HTML5"/>
