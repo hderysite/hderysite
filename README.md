@@ -10,6 +10,9 @@
 - Atualmente aprendendo **JavaScript** e **C**
 - Tenho como objetivo me tornar uma desenvolvedora full stack
 
+
+[![Magic Clock – f5ve](https://i.scdn.co/image/ab67616d0000b2738de0f3fd8dcf8b54b8e6faae)](https://open.spotify.com/track/4uqQqo29gJayAFzhruH1cN?si=zwj5sygIT4ew9UYwAseSZg)
+
 <p align="center">
   <a href="https://github.com/hderysite">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hderysite&layout=compact&langs_count=7&theme=vision-friendly-dark" height="180em" />
