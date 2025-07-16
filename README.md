@@ -25,7 +25,6 @@
   <img src="https://img.icons8.com/color/48/javascript--v1.png" height="40" width="40" alt="Logo Java Script"/>
   <img src="https://img.icons8.com/color/48/c-programming.png" height="40" width="40" alt="Logo C"/>
   <img src="https://img.icons8.com/color/48/figma--v1.png" height="40" width="40" alt="Logo Figma"/>
-  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" height="40" width="40" alt="Logo Visual Code"/>
 </div>
 
 ---
