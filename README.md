@@ -6,7 +6,7 @@
 
 ### 👩‍💻 Sobre Mim 
 
-- Estudante do **1º semestre de Ciência da Computação**
+- Estudante do **2º semestre de Ciência da Computação**
 - Atualmente aprendendo **JavaScript** e **C**
 - Tenho como objetivo me tornar uma desenvolvedora full stack
 
