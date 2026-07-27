@@ -1,12 +1,12 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A1B9A,50:8E44AD,100:C77DFF&height=140&section=header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:FFFFFF,100:FFFFFF&height=140&section=header"/>
 </div>
 
 <div align="center">
 
 # Olá, mundo! Eu sou Anna Carolina <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="35">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Future+Full+Stack+Developer;UI%2FUX+Enthusiast;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFFFF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Future+Full+Stack+Developer;UI%2FUX+Enthusiast;Always+Learning+Something+New"/>
 
 </div>
 
@@ -61,6 +61,6 @@ const anna = {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A1B9A,50:8E44AD,100:C77DFF&height=140&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:FFFFFF,100:FFFFFF&height=140&section=footer"/>
 
 </div>
