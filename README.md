@@ -6,7 +6,7 @@
 
 # Olá, mundo! Eu sou Anna Carolina <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="35">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Future+Full+Stack+Developer;UI%2FUX+Enthusiast;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=79C0FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Future+Full+Stack+Developer;UI%2FUX+Enthusiast;Always+Learning+Something+New"/>
 
 </div>
 
@@ -45,19 +45,29 @@ const anna = {
 
 ## 📌 Projetos em Destaque
 
-### 🍰 Red Velvet
+<div align="center">
 
-> Site interativo sobre o grupo Red Velvet, apresentando sua história e conceitos visuais.
+<h3>🍰 Red Velvet</h3>
 
-🔗 https://hderysite.github.io/Red_Velvet/
+<p>
+Site sobre a história e os conceitos visuais do grupo Red Velvet.
+</p>
 
+<a href="https://hderysite.github.io/Red_Velvet/">
+<img src="https://img.shields.io/badge/Visitar%20Projeto-8E44AD?style=for-the-badge&logo=githubpages&logoColor=white"/>
+</a>
 
-### 🐾 Adotados & Amados
+<br><br>
 
-> Site voltado à adoção consciente de animais e divulgação de pets disponíveis para adoção.
+<h3>🐾 Adotados & Amados</h3>
 
-🔗 https://hderysite.github.io/Adotados-Amados/
+<p>
+Site voltado à adoção consciente de animais.
+</p>
 
+<a href="https://hderysite.github.io/Adotados-Amados/">
+<img src="https://img.shields.io/badge/Visitar%20Projeto-8E44AD?style=for-the-badge&logo=githubpages&logoColor=white"/>
+</a>
 
 </div>
 
