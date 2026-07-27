@@ -23,12 +23,11 @@ const anna = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,c,python,git,github,vscode,figma&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,c,c#,python,git,github,vscode,figma&theme=dark"/>
 
 </div>
 
 <br> 
-<br>
 
 <div align="center">
 
