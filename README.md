@@ -56,7 +56,7 @@ const anna = {
 
 > Site voltado à adoção consciente de animais e divulgação de pets disponíveis para adoção.
 
-🔗 https://hderysite.github.io/Adotados-Amados/m
+🔗 https://hderysite.github.io/Adotados-Amados/
 
 
 </div>
