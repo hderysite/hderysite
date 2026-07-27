@@ -43,31 +43,15 @@ const anna = {
 
 ---
 
+
 ## 📌 Projetos em Destaque
 
 <div align="center">
 
-<h3>🍰 Red Velvet</h3>
-
-<p>
-Site sobre a história e os conceitos visuais do grupo Red Velvet.
-</p>
-
-<a href="https://hderysite.github.io/Red_Velvet/">
-<img src="https://img.shields.io/badge/Visitar%20Projeto-8E44AD?style=for-the-badge&logo=githubpages&logoColor=white"/>
-</a>
-
-<br><br>
-
-<h3>🐾 Adotados & Amados</h3>
-
-<p>
-Site voltado à adoção consciente de animais.
-</p>
-
-<a href="https://hderysite.github.io/Adotados-Amados/">
-<img src="https://img.shields.io/badge/Visitar%20Projeto-8E44AD?style=for-the-badge&logo=githubpages&logoColor=white"/>
-</a>
+| Projeto | Descrição | Link |
+|--------|--------|--------|
+| 🍰 Red Velvet | Site sobre a história e os conceitos visuais do grupo Red Velvet. | <a href="https://hderysite.github.io/Red_Velvet/">Acessar</a> |
+| 🐾 Adotados & Amados | Site voltado à adoção consciente de animais. | <a href="https://hderysite.github.io/Adotados-Amados/">Acessar</a> |
 
 </div>
 
