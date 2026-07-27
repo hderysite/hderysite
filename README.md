@@ -46,7 +46,6 @@ const anna = {
 
 🔗 https://hderysite.github.io/Red_Velvet/
 
----
 
 ### 🐾 Adotados & Amados
 
