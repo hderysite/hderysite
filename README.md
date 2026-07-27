@@ -6,8 +6,6 @@
 
 # Olá, mundo! Eu sou Anna Carolina <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="35">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=79C0FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Future+Full+Stack+Developer;UI%2FUX+Enthusiast;Always+Learning+Something+New"/>
-
 </div>
 
 ---
