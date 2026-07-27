@@ -29,6 +29,14 @@
 
 ---
 
+<div align="center">
+  <a href="https://open.spotify.com/user/a4kadb7qj5zlflueu1qor9kv3">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=a4kadb7qj5zlflueu1qor9kv3&count=1" alt="Spotify recently played" />
+  </a>
+</div>
+
+---
+
 ## 📌 Últimos projetos desenvolvidos
 
 [**Red Velvet**](https://hderysite.github.io/Red_Velvet/) 🍰  
