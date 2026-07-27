@@ -18,7 +18,7 @@ const anna = {
     education: "Ciência da Computação - SENAC",
     semester: "4º semestre",
     currentlyLearning: ["JavaScript", "C#", "Python"],
-    interests: ["Web Development", "UI/UX Design", "Open Source"],
+    interests: ["Web Development", "UI/UX Design", "Technology"],
     goal: "Me tornar uma Desenvolvedora Full Stack"
 };
 ```
