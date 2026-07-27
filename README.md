@@ -1,4 +1,8 @@
 <div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A1B9A,50:8E44AD,100:C77DFF&height=140&section=header"/>
+</div>
+
+<div align="center">
 
 # Olá, mundo! Eu sou Anna Carolina <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="35">
 
@@ -23,7 +27,7 @@ const anna = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,c,c#,python,git,github,vscode,figma&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,c,cs,python,git,github,vscode,figma&theme=dark"/>
 
 </div>
 
